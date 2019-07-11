@@ -13,7 +13,8 @@ Run this command in your terminal:
 
     $ coin_flip
 
-You will get your Heads or Tails!
+You will get Heads or Tails!
+So much easier than finding a coin and using a thumb!
 
 ## Contributing
 
